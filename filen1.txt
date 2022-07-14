@@ -1,0 +1,2 @@
+This is new file with code.
+trying to understand the communication between remote repo(github) and local repo(computer)
